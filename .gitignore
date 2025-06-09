@@ -1,0 +1,19 @@
+# Subprojects
+mailing-api/
+portal-gateway/
+portal_backend/
+portal_frontend/
+registry/
+darp_engine/
+users-service/
+
+
+# Standard stuff
+.idea
+*.env
+__pycache__
+venv
+latest.log
+celerybeat-schedule
+.venv
+test.py
